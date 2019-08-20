@@ -1,0 +1,9 @@
+I, [2019-08-20T20:13:24.019205 #30527]  INFO -- : Refreshing Gem list
+I, [2019-08-20T20:13:25.088618 #30527]  INFO -- : listening on addr=/home/ubuntu/myapp/shared/sockets/unicorn.sock fd=7
+I, [2019-08-20T20:13:25.088789 #30527]  INFO -- : worker=0 spawning...
+I, [2019-08-20T20:13:25.090888 #30527]  INFO -- : worker=1 spawning...
+I, [2019-08-20T20:13:25.092098 #30527]  INFO -- : master process ready
+I, [2019-08-20T20:13:25.105588 #30529]  INFO -- : worker=0 spawned pid=30529
+I, [2019-08-20T20:13:25.105737 #30529]  INFO -- : worker=0 ready
+I, [2019-08-20T20:13:25.106789 #30530]  INFO -- : worker=1 spawned pid=30530
+I, [2019-08-20T20:13:25.106924 #30530]  INFO -- : worker=1 ready
